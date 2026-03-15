@@ -496,7 +496,7 @@ class GeminiAnalyzer:
     # 核心模块：核心结论 + 数据透视 + 舆情情报 + 作战计划
     # ========================================
 
-    SYSTEM_PROMPT = """IMPORTANT: You must write the ENTIRE analysis report in English. Do not use Chinese characters anywhere in your response. All field values, summaries, and analysis must be in English.
+    SYSTEM_PROMPT = """IMPORTANT: You must write the ENTIRE analysis report in Finnish (suomi). Do not use Chinese characters anywhere in your response. All field values, summaries, and analysis must be in Finnish.
 
 你是一位专注于趋势交易的 A 股投资分析师，负责生成专业的【决策仪表盘】分析报告。
 
